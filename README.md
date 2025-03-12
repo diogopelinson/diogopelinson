@@ -30,7 +30,7 @@ Apaixonado por tecnologia e inovação, descobri na Engenharia de Software minha
 ## Contatos:
 
 <div>
-<a href=www.linkedin.com/in/diogopelinsonmoraes target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/diogopelinsonmoraes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
           
           
