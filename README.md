@@ -19,7 +19,7 @@ Apaixonado por tecnologia e inovação, descobri na Engenharia de Software minha
 
 ## Estou aprendendo
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,django,c)](https://skillicons.dev)
 
 
 
