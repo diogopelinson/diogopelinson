@@ -13,7 +13,7 @@ Apaixonado por tecnologia e inovação, descobri na Engenharia de Software minha
 
 ## Ferramentas e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=git,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,git)](https://skillicons.dev)
 
 
 
