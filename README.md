@@ -13,13 +13,13 @@ Apaixonado por tecnologia e inovação, descobri na Engenharia de Software minha
 
 ## Ferramentas e Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=py,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,git)](https://skillicons.dev)
 
 
 
 ## Estou aprendendo
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 
 
