@@ -4,11 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=OI&pause=1000&color=C16A75&center=true&vCenter=true&random=false&width=435&lines=👋+Hello%2C+nice+to+meet+you;My+name+is+Diogo+Pelinson;I+am+a+software+engineering+student;from+FIAP" alt="Typing SVG" />
   </a>
   <br />
-  <span>👨‍💻</span> <!-- Emoji fixo abaixo -->
+  <span>👨‍💻</span> 
 </div>
 <h1>Hi!</h1>
 
-- 👋 Hello! My name is **Diogo Pelinson** and I am a Software Engineering student. <br />
+- 👋 Hello! My name is **Diogo Pelinson** and I am a Software Engineering student at FIAP. <br />
 - ✨ My goal is to keep learning technologies and developing innovative applications.<br />
 - 🧰 I'm focused on Python, Flask, SQL, BD, Machine Learning, Data Engineering, ETL processes, and data pipeline development.<br />
 - 😊 I always strive to be kind and respectful, and I enjoy meeting new people and sharing experiences.<br />
