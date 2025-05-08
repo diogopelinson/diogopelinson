@@ -1,9 +1,8 @@
-<div align="center">
+hj<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=OI&pause=1000&color=C16A75&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+nice+to+meet+you;My+name+is+Diogo+Pelinson;I+am+a+software+engineering+student;from+FIAP" alt="Typing SVG" />
   </a>
   <br />
-  <span style="font-size: 50px;">👽</span> <!-- Emoji de alien -->
 </div>
 
 
@@ -33,7 +32,7 @@
 
 
 ##
-##
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="37" alt="python logo"  />
@@ -52,7 +51,7 @@
 </div>
 
 
-##
+
 ##
 
 <div align="center">
