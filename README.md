@@ -1,7 +1,7 @@
-<div align="center">
+as<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=OI&pause=1000&color=C16A75&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+nice+to+meet+you;My+name+is+Diogo+Pelinson;I+am+a+software+engineering+student;from+FIAP" alt="Typing SVG" />
-  </a>
+  </a>d
   <br />
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="50" height="50" />
 </div>
@@ -51,7 +51,7 @@
 ###
 - 👋 Hello! My name is **Diogo Pelinson** and I am a Software Engineering student. <br />
 - ✨ My goal is to keep learning technologies and developing innovative applications.<br />
-- 🧰 I'm focused on Python, Flask, MySQL, Machine Learning, Data Engineering, ETL processes, and data pipeline development.<br />
+- 🧰 I'm focused on Python, Flask, SQL, BD, Machine Learning, Data Engineering, ETL processes, and data pipeline development.<br />
 - 😊 I always strive to be kind and respectful, and I enjoy meeting new people and sharing experiences.<br />
 - 📣 If you'd like to talk about tech, games, or anything else, feel free to reach out!<br />
 
