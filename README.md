@@ -27,8 +27,9 @@ Apaixonado por tecnologia e inovação, descobri na Engenharia de Software minha
 
 ---
 
-
-<img width=49% src='https://github-readme-stats.vercel.app/api/?username=diogopelinson&layout=compact&theme=codeSTACKr' alt="Profile Stats"/>
+<div align="center" dir="auto">
+          <img width=49% src='https://github-readme-stats.vercel.app/api/?username=diogopelinson&layout=compact&theme=codeSTACKr' alt="Profile Stats"/>
+</div>
           
           
         
