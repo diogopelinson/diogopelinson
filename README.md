@@ -1,4 +1,11 @@
-<h2 align="center">Hi 👋! My name is Diogo Pelinson and I'm a software engineering student, from FIAP</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=OI&pause=1000&color=C16A75&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+nice+to+meet+you;My+name+is+Diogo+Pelinson;I+am+a+software+engineering+student;from+FIAP" alt="Typing SVG" />
+  </a>
+  <br />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="50" height="50" />
+</div>
+
 
 ###
 
@@ -6,6 +13,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DiogoPelinson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiogoPelinson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+---
 
 ###
 
@@ -35,6 +44,16 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
+
+---
+
+###
+###
+- 👋 Hello! My name is **Diogo Pelinson** and I am a Software Engineering student. <br />
+- ✨ My goal is to keep learning technologies and developing innovative applications.<br />
+- 🧰 I'm focused on Python, Flask, MySQL, Machine Learning, Data Engineering, ETL processes, and data pipeline development.<br />
+- 😊 I always strive to be kind and respectful, and I enjoy meeting new people and sharing experiences.<br />
+- 📣 If you'd like to talk about tech, games, or anything else, feel free to reach out!<br />
 
 ###
 
