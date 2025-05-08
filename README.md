@@ -58,10 +58,4 @@
 </div>
 
 
-###
 
-<div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJhanFheW50M205d3F2ZXNjY2R2aHA5aHRlM2xweGRxNHVvb2c1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iD5sikcB9Xv5Al1fOe/giphy.gif"  />
-</div>
-
-###
