@@ -3,8 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=OI&pause=1000&color=C16A75&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+nice+to+meet+you;My+name+is+Diogo+Pelinson;I+am+a+software+engineering+student;from+FIAP" alt="Typing SVG" />
   </a>
   <br />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="50" height="50" />
+  <span style="font-size: 50px;">👽</span> <!-- Emoji de alien -->
 </div>
+
+
 
 ##
 
