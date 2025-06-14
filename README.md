@@ -10,7 +10,7 @@
 
 - 👋 Hello! My name is **Diogo Pelinson** and I am a Software Engineering student at FIAP. <br />
 - ✨ My goal is to keep learning technologies and developing innovative applications.<br />
-- 🧰 I'm focused on Python, Flask, SQL, BD, Machine Learning, Data Engineering, ETL processes, and data pipeline development.<br />
+- 🧰 I'm focused on Python, Flask, SQL, BD, Java, IA, Machine Learning, Data Engineering, ETL processes, and data pipeline development.<br />
 - 😊 I always strive to be kind and respectful, and I enjoy meeting new people and sharing experiences.<br />
 - 📣 If you'd like to talk about tech, games, or anything else, feel free to reach out!<br />
 
