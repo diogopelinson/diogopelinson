@@ -8,11 +8,15 @@
 </div>
 <h1>Hi!</h1>
 
-- 👋 Hello! My name is **Diogo Pelinson** and I am a Software Engineering student at FIAP. <br />
-- ✨ My goal is to keep learning technologies and developing innovative applications.<br />
-- 🧰 I'm focused on Python, Flask, SQL, BD, Java, IA, Machine Learning, Data Engineering, ETL processes, and data pipeline development.<br />
-- 😊 I always strive to be kind and respectful, and I enjoy meeting new people and sharing experiences.<br />
-- 📣 If you'd like to talk about tech, games, or anything else, feel free to reach out!<br />
+- 👋 Hello! My name is Diogo Pelinson, a Software Engineering student at FIAP with a passion for Back-End Development and Artificial Intelligence. <br />
+
+- 🔧 I'm focused on building robust back-end systems using Python, Flask, SQL, Java, and database architecture.<br />
+
+- 🤖 I have a strong interest in Machine Learning, AI, ETL pipelines, Data Engineering, and automation of intelligent solutions.<br />
+
+- 🚀 My goal is to continuously learn and develop scalable, data-driven applications that solve real-world problems.<br />
+
+- 📩 Feel free to reach out if you want to talk tech, AI, or share cool ideas!
 
 ##
 
