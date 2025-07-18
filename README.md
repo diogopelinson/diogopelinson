@@ -8,15 +8,15 @@
 </div>
 <h1>Hi!</h1>
 
--👋 Hello! I'm Diogo Pelinson, a Software Engineer focused on Back-end Development, especially with Java.
+● 👋 Hello! I'm Diogo Pelinson, a Software Engineer focused on Back-end Development, especially with Java.
 
--💻 I have experience building robust and scalable systems using Java, Spring Boot, SQL, MySQL and also Python with Flask.
+● 💻 I have experience building robust and scalable systems using Java, Spring Boot, SQL, MySQL and also Python with Flask.
 
--⚙️ I'm driven by technical challenges and passionate about applying Artificial Intelligence and Machine Learning in back-end solutions.
+● ⚙️ I'm driven by technical challenges and passionate about applying Artificial Intelligence and Machine Learning in back-end solutions.
 
--🚀 My goal is to develop efficient, high-performance applications that solve real-world problems.
+● 🚀 My goal is to develop efficient, high-performance applications that solve real-world problems.
 
--📬 Feel free to connect if you want to talk about Java, back-end, or share innovative tech ideas!
+● 📬 Feel free to connect if you want to talk about Java, back-end, or share innovative tech ideas!
 
 ##
 
