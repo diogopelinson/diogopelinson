@@ -12,6 +12,8 @@
 
 • 💻 I work on building robust and scalable systems using **Java**, **Spring Boot**, **Python**, **Flask**, **MySQL**, and **SQL**.  
 
+• ☁️ Currently, I'm studying **AWS** and preparing for the **AWS Certified Cloud Practitioner** exam.  
+
 • 🤖 I'm passionate about **Artificial Intelligence** and **Machine Learning**, exploring these fields applied to back-end development.  
 
 • 🚀 I'm always seeking technical growth, developing solutions that solve real-world problems efficiently.  
