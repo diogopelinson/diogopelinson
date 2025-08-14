@@ -10,7 +10,7 @@
 
 • 👋 Hello! I'm **Diogo Pelinson**, a Software Engineer with a strong interest in **Back-end Development**, especially with **Java**.  
 
-• 💻 I work on building robust and scalable systems using **Java**, **Spring Boot**, **Python**, **Flask**, **MySQL**, and **SQL**.  
+• 💻 I work on building robust and scalable systems using **Java**, **Spring Boot**, **Python**, **Flask**, **MySQL**, and **AWS**.  
 
 • ☁️ Currently, I'm studying **AWS** and preparing for the **AWS Certified Cloud Practitioner** exam.  
 
