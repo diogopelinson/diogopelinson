@@ -8,9 +8,9 @@
 </div>
 <h1>Hi!</h1>
 
-• 👋 Hello! I'm **Diogo Pelinson**, a Software Engineer with a strong interest in **Back-end Development**, especially with **Java**.  
+• 👋 Hello! I'm **Diogo Pelinson**, a Software Engineer with a strong interest in **Back-end Development**, especially with **Java** and **.NET**.  
 
-• 💻 I work on building robust and scalable systems using **Java**, **Spring Boot**, **Python**, **Flask**, **MySQL**, and **AWS**.  
+• 💻 I work on building robust and scalable systems using **Java**, **Spring Boot**, **Python**, **Flask**, **Postgres**, and **AWS**.  
 
 • ☁️ Currently, I'm studying **AWS** and preparing for the **AWS Certified Cloud Practitioner** exam.  
 
@@ -42,15 +42,15 @@
   <img width="15" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="37" alt="spring logo"  />
 <img width="15" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="37" alt="csharp logo"  />
   <img width="15" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="37" alt="postgresql logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
 
