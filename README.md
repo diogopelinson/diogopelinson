@@ -38,8 +38,6 @@
 
 <h1>Tools and Languages💻</h1>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
-  <img width="15" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="37" alt="spring logo"  />
 <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="37" alt="csharp logo"  />
@@ -53,6 +51,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="37" alt="mongodb logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="37" alt="docker logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="37" alt="kubernetes logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="37" alt="rabbitmq logo"  />
 </div>
