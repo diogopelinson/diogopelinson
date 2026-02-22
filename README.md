@@ -39,8 +39,6 @@
 <h1>Tools and Languages💻</h1>
 <div align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="37" alt="spring logo"  />
-<img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="37" alt="csharp logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
   <img width="15" />
@@ -55,6 +53,9 @@
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="37" alt="kubernetes logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="37" alt="rabbitmq logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="37" alt="terraform logo"  />
+  
 </div>
 
 
