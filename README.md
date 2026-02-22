@@ -38,6 +38,8 @@
 
 <h1>Tools and Languages💻</h1>
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo" />
+  <img width="15" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="37" alt="spring logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo"  />
