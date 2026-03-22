@@ -8,17 +8,25 @@
 </div>
 <h1>Hi!</h1>
 
-• 👋 Hello! I'm **Diogo Pelinson**, a Software Engineer with a strong interest in **Back-end Development**, especially with **Java** and **.NET**.  
+• 👋 Hello! I'm **Diogo Pelinson**, a **Software Engineering student at FIAP** and **Backend Developer Intern at Opt-Driven Technology**, focused on **backend development** and **software architecture**.  
 
-• 💻 I work on building robust and scalable systems using **Java**, **Spring Boot**, **Python**, **Flask**, **Postgres**, and **AWS**.  
+• 💻 I build **APIs (HTTP/MQTT)** and backend services using **Java (Spring Boot)**, **Python (FastAPI/Flask)**, **Node.js/TypeScript**, applying **MVC**, **layered architecture** and **SOLID principles**.  
 
-• ☁️ Currently, I'm studying **AWS** and preparing for the **AWS Certified Cloud Practitioner** exam.  
+• ⚙️ I work with **microservices** and **event-driven architecture**, using **RabbitMQ** and **MQTT** to create **scalable, decoupled and resilient systems**.  
 
-• 🤖 I'm passionate about **Artificial Intelligence** and **Machine Learning**, exploring these fields applied to back-end development.  
+• 🗄️ Experience with **PostgreSQL** and **MongoDB**, focusing on **data modeling and performance** for distributed applications.  
 
-• 🚀 I'm always seeking technical growth, developing solutions that solve real-world problems efficiently.  
+• ☁️ I use **Docker**, **Kubernetes** and **AWS** to build and deploy **cloud-native and distributed systems**.  
 
-• 📬 Feel free to reach out to talk about Java, back-end, or share technology ideas!
+• 🔐 I implement **secure APIs** using **JWT**, **OAuth2** and **MFA**, ensuring authentication, authorization and API protection.  
+
+• 🌐 Experience with **FIWARE ecosystem**, integrating **IoT devices, context data and backend services** for real-time systems.  
+
+• 🤖 I work with **Artificial Intelligence, LLMs, Computer Vision and IoT**, building **data-driven platforms** for automation and real-time monitoring.  
+
+• 🚀 Always seeking to grow as a backend engineer, focused on **scalability, performance and clean architecture**.  
+
+• 📬 Feel free to reach out to talk about backend, architecture or technology!
 
 ##
 
