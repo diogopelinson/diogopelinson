@@ -101,6 +101,8 @@ Currently:
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mqtt/660066" height="40" alt="mqtt logo" />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/eclipsemosquitto/3C5280" height="40" alt="mosquitto logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="40" alt="apachecassandra logo"  />
   <img width="12" />
 </div>
