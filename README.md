@@ -48,6 +48,41 @@ Currently:
 
 ##
 
+<h1>Certifications & Badges 🏅</h1>
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="20">
+    <tr>
+      <td align="center">
+        <a href="https://www.credly.com/badges/e9e6d303-b02e-4e3c-9c61-81c864ac27c5" target="_blank">
+          <img src="https://images.credly.com/size/200x200/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Certified Cloud Practitioner" />
+        </a>
+        <br/><sub><b>Cloud Practitioner</b></sub>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/badges/a277ba8b-f28a-4bc4-8740-d99c149a55d7" target="_blank">
+          <img src="https://images.credly.com/size/200x200/images/6f40bf38-1725-40d8-99a2-f6bb1bafec0e/blob" width="150" alt="AWS Agentic AI Demonstrated" />
+        </a>
+        <br/><sub><b>Agentic AI</b></sub>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/badges/852c5f3c-cf5f-4e75-9ec4-490e6aecc2ac" target="_blank">
+          <img src="https://images.credly.com/size/200x200/images/ed8cf03b-6269-4265-a65b-68e67e49ce6b/blob" width="150" alt="AWS Application Networking Demonstrated" />
+        </a>
+        <br/><sub><b>Application Networking</b></sub>
+      </td>
+      <td align="center">
+        <a href="https://www.credly.com/badges/f8ec9c12-1d29-4232-9226-2bf095e4918b" target="_blank">
+          <img src="https://images.credly.com/size/200x200/images/b3885091-25bc-42d0-8989-34cca82f3056/blob" width="150" alt="AWS Serverless Demonstrated" />
+        </a>
+        <br/><sub><b>Serverless</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+##
+
 <h1>Tools & Stack 💻</h1>
 
 **Backend**
@@ -76,8 +111,6 @@ Currently:
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/helm/0F1689" height="40" alt="helm logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo" />
   <img width="12" />
