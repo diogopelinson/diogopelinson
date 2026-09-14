@@ -27,7 +27,7 @@
 ```yaml
 Currently:
   🌱 Studying    : AWS Solutions Architect Associate (SAA-C03)
-  🎯 Focused on  : Backend Systems · Platform Engineering · Edge AI
+  🎯 Focused on  : Backend Systems · Platform Engineering · Edge IoT AI
   📍 Based in    : São Paulo, Brazil
 ```
 
