@@ -8,25 +8,21 @@
 
 <h1>Hi!</h1>
 
-• 👋 I'm **Diogo Pelinson**, a **Software Engineering student at FIAP** and **Backend Developer Intern at Opt-Driven Technology**, focused on **backend engineering**, **platform infrastructure** and **IoT systems**.
+• 👋 I'm **Diogo Pelinson**, a **Software Engineering student at FIAP** and **Junior Software Engineer at Opt-Driven Technology**, handling the full project lifecycle—from ideation to field deployment.
 
-• 💻 I build **REST and event-driven APIs** using **Java (Spring Boot)**, **Python (FastAPI)** and **Node.js/TypeScript**, applying **Clean Architecture**, **DDD** and **SOLID principles**.
+• 🚀 I lead the clustering of large-scale edge device fleets (**NVIDIA Jetson, Raspberry Pi, LicheeRV**), drastically reducing latency and optimizing data delivery for enterprise platforms.
 
-• ⚙️ I design **microservices** and **event-driven systems** with **RabbitMQ** and **MQTT**, building scalable, decoupled pipelines for real-time data processing.
+• 📈 I have a strong focus on building high-impact zero-to-one solutions. I developed a logging and monitoring platform that **increased production bug resolution capacity by 70%**. 
 
-• 🚀 I work with the full **DevOps lifecycle** — infrastructure as code with **Terraform**, container orchestration with **Docker** and **Kubernetes (EKS)**, and CI/CD with **GitHub Actions** on **AWS**.
+• 🎥 I also architected a video streaming module based on **Event Sourcing** (Cloud + MediaMTX), enabling the live monitoring of **100+ cameras in production** with **sub-2-second latency**.
 
-• 🗄️ Experienced with **PostgreSQL**, **MongoDB** and **Redis**, focusing on data modeling and performance for distributed, high-throughput applications.
+• ⚙️ At the core of my development, I build advanced embedded system modules (Process Orchestrators) for internal SDKs via **NATS (JetStream)**. I develop APIs in **Python (FastAPI)** and **TypeScript (Node.js)** bridging physical systems to Computer Vision inference pipelines.
 
-• 🌐 Deep experience with the **FIWARE ecosystem** (Orion, IoT Agent, STH-Comet, Keyrock, Wilma), integrating IoT devices, context data and backend services for real-time monitoring platforms.
+• ⚡ These pipelines process massive amounts of events per minute through asynchronous messaging (**NATS, RabbitMQ**) and real-time technologies (**WebSocket, SSE**). To ensure stability under high load, I implemented a **Redis-backed Rate Limiter** alongside robust **AppSec** practices.
 
-• 🤖 I develop **AI/ML pipelines** and **computer vision systems** at the edge, working with **NVIDIA Jetson**, **YOLOv8/ONNX** and **LLM-integrated** workflows for automation and inference.
+• ☁️ I orchestrate hybrid Cloud and Edge infrastructure using **Docker** and **Kubernetes**, provisioning resources as code (IaC) via **Terraform**. I design secure hybrid networks using **VLANs, Static IPs, Tailscale, RTSP, and WebRTC**, ensuring high-speed traffic and device security.
 
-• 🔐 I implement secure APIs using **JWT**, **OAuth2** and role-based access control, with observability via **Prometheus** and **Grafana**.
-
-• 📬 Feel free to reach out to talk about backend, platform engineering or distributed systems!
-
-##
+• 🐧 My work spans embedded Linux customization (**OpenWRT, Yocto Project**), application development (**C/C++, Go, Python**), and deep system observability (**Grafana, STH-Comet, OpenTelemetry**), ensuring performance, reliability, and long-term maintainability.
 
 ```yaml
 Currently:
@@ -85,25 +81,27 @@ Currently:
 
 <h1>Tools & Stack 💻</h1>
 
-**Backend**
+**Backend & Core**
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo" />
 </div>
 
 <br/>
 
-**DevOps & Cloud**
+**DevOps, Cloud & Networking**
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
@@ -117,11 +115,13 @@ Currently:
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailscale/FFFFFF" height="40" alt="tailscale logo" />
 </div>
 
 <br/>
 
-**Data & Messaging**
+**Data & Event-Driven Messaging**
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo" />
@@ -132,22 +132,27 @@ Currently:
   <img width="12" />
   <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="40" alt="rabbitmq logo" />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/natsdotio/27AAE1" height="40" alt="nats logo" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/mqtt/660066" height="40" alt="mqtt logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/eclipsemosquitto/3C5280" height="40" alt="mosquitto logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="40" alt="apachecassandra logo"  />
-  <img width="12" />
 </div>
 
 <br/>
 
-**Observability & IoT**
+**Edge Computing, IoT & Observability**
 
 <div align="left">
+  <img src="https://cdn.simpleicons.org/opentelemetry/000000" height="40" alt="opentelemetry logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="prometheus logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nvidia/76B900" height="40" alt="nvidia logo" />
 </div>
