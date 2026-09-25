@@ -8,21 +8,22 @@
 
 <h1>Hi!</h1>
 
-• 👋 I'm **Diogo Pelinson**, a **Software Engineering student at FIAP** and **Junior Software Engineer at Opt-Driven Technology**, handling the full project lifecycle—from ideation to field deployment.
+- I'm **Diogo Pelinson**, **Junior Software Engineer at Opt-Driven Technology** and **Software Engineering student at FIAP**. I work on projects end to end, from the first idea to deployment in the field.
 
-• 🚀 I lead the clustering of large-scale edge device fleets (**NVIDIA Jetson, Raspberry Pi, LicheeRV**), drastically reducing latency and optimizing data delivery for enterprise platforms.
+- I lead the clustering of our edge device fleet (**NVIDIA Jetson, Raspberry Pi, LicheeRV**), which cut latency and improved how data reaches the company's platforms.
 
-• 📈 I have a strong focus on building high-impact zero-to-one solutions. I developed a logging and monitoring platform that **increased production bug resolution capacity by 70%**. 
+- I built our logging and monitoring platform from scratch. Since then we've been catching and fixing **70% more production bugs**.
 
-• 🎥 I also architected a video streaming module based on **Event Sourcing** (Cloud + MediaMTX), enabling the live monitoring of **100+ cameras in production** with **sub-2-second latency**.
+- I designed the video streaming module, based on **Event Sourcing** with **MediaMTX** in the cloud. It keeps **100+ cameras live** in production with **under 2 seconds of latency**.
 
-• ⚙️ At the core of my development, I build advanced embedded system modules (Process Orchestrators) for internal SDKs via **NATS (JetStream)**. I develop APIs in **Python (FastAPI)** and **TypeScript (Node.js)** bridging physical systems to Computer Vision inference pipelines.
+- I write process orchestrators for our internal SDK library over **NATS JetStream**, and build APIs in **Python (FastAPI)** and **TypeScript (Node.js)** that connect cameras and devices to computer vision inference pipelines. Messaging runs on **NATS** and **RabbitMQ**, real-time delivery on **WebSocket** and **SSE**. To handle load spikes, I implemented a **Redis-backed rate limiter**.
 
-• ⚡ These pipelines process massive amounts of events per minute through asynchronous messaging (**NATS, RabbitMQ**) and real-time technologies (**WebSocket, SSE**). To ensure stability under high load, I implemented a **Redis-backed Rate Limiter** alongside robust **AppSec** practices.
+- I orchestrate hybrid Cloud and Edge infrastructure using **Docker** and **Kubernetes**, provisioning resources as code (IaC) via **Terraform**. I design secure hybrid networks using **VLANs, Static IPs, Tailscale, RTSP, and WebRTC**, ensuring high-speed traffic and device security.
 
-• ☁️ I orchestrate hybrid Cloud and Edge infrastructure using **Docker** and **Kubernetes**, provisioning resources as code (IaC) via **Terraform**. I design secure hybrid networks using **VLANs, Static IPs, Tailscale, RTSP, and WebRTC**, ensuring high-speed traffic and device security.
+- My work spans embedded Linux customization (**OpenWRT, Yocto Project**), application development (**C/C++, Go, Python**), and deep system observability (**Grafana, STH-Comet, OpenTelemetry**), ensuring performance, reliability, and long-term maintainability. 🐧 
 
-• 🐧 My work spans embedded Linux customization (**OpenWRT, Yocto Project**), application development (**C/C++, Go, Python**), and deep system observability (**Grafana, STH-Comet, OpenTelemetry**), ensuring performance, reliability, and long-term maintainability.
+- Lately I've been going deep on **Go and distributed systems**: Clean Architecture microservices over **gRPC** and **Protocol Buffers**, concurrency with goroutines, channels and generics, **Kafka** with the outbox pattern and idempotency, double-entry ledgers in **Postgres**, **MCP servers** for AI agents, and **Kubernetes on GCP (GKE)** with **Prometheus**. I document architecture decisions with **ADRs**.
+
 
 ```yaml
 Currently:
@@ -82,21 +83,18 @@ Currently:
 <h1>Tools & Stack 💻</h1>
 
 **Backend & Core**
-
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp logo" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" height="40" alt="grpc logo" />
 </div>
 
 <br/>
@@ -106,17 +104,19 @@ Currently:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="gcp logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="terraform logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailscale/FFFFFF" height="40" alt="tailscale logo" />
+  <img src="https://cdn.simpleicons.org/tailscale/000000/FFFFFF" height="40" alt="tailscale logo" />
 </div>
 
 <br/>
@@ -124,21 +124,23 @@ Currently:
 **Data & Event-Driven Messaging**
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="40" alt="redis logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="40" alt="rabbitmq logo" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cassandra" height="40" alt="apachecassandra logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="kafka logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="rabbitmq logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/natsdotio/27AAE1" height="40" alt="nats logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mqtt/660066" height="40" alt="mqtt logo" />
+  <img src="https://cdn.simpleicons.org/mqtt/660066/FFFFFF" height="40" alt="mqtt logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/eclipsemosquitto/3C5280" height="40" alt="mosquitto logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachecassandra/1287B1" height="40" alt="apachecassandra logo"  />
+  <img src="https://cdn.simpleicons.org/eclipsemosquitto/3C5280/FFFFFF" height="40" alt="mosquitto logo" />
 </div>
 
 <br/>
@@ -146,15 +148,17 @@ Currently:
 **Edge Computing, IoT & Observability**
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/opentelemetry/000000" height="40" alt="opentelemetry logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=prometheus" height="40" alt="prometheus logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=grafana" height="40" alt="grafana logo" />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/opentelemetry/425CC7" height="40" alt="opentelemetry logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nvidia/76B900" height="40" alt="nvidia logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/openwrt/00B5E2" height="40" alt="openwrt logo" />
 </div>
 
 ##
