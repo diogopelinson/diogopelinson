@@ -88,8 +88,6 @@ Currently:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" />
@@ -139,8 +137,6 @@ Currently:
   <img src="https://cdn.simpleicons.org/natsdotio/27AAE1" height="40" alt="nats logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mqtt/660066/FFFFFF" height="40" alt="mqtt logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/eclipsemosquitto/3C5280/FFFFFF" height="40" alt="mosquitto logo" />
 </div>
 
 <br/>
@@ -157,8 +153,6 @@ Currently:
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nvidia/76B900" height="40" alt="nvidia logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/openwrt/00B5E2" height="40" alt="openwrt logo" />
 </div>
 
 ##
