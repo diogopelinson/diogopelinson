@@ -196,7 +196,4 @@ Currently:
   <img src="https://streak-stats.demolab.com?user=diogopelinson&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diogopelinson&show_icons=true&theme=dark&hide_border=false&border_radius=5&include_all_commits=true&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogopelinson&layout=compact&theme=dark&hide_border=false&border_radius=5&langs_count=6" height="150" alt="languages" />
-</div>
+
