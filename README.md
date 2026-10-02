@@ -8,7 +8,7 @@
 
 <h1>Hi!</h1>
 
-- I'm **Diogo Pelinson**, **Junior Software Engineer at Opt-Driven Technology** and **Software Engineering student at FIAP**. I work on projects end to end, from the first idea to deployment in the field.
+- I'm **Diogo Pelinson**, **Software Engineer at Opt-Driven Technology** and **Software Engineering student at FIAP**. I work on projects end to end, from the first idea to deployment in the field.
 
 - I lead the clustering of our edge device fleet (**NVIDIA Jetson, Raspberry Pi, LicheeRV**), which cut latency and improved how data reaches the company's platforms.
 
